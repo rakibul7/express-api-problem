@@ -1,0 +1,25 @@
+{
+  "name": "express-api-problem",
+  "version": "1.2.6",
+  "description": "A minimal package to assist in returning RESTful exceptions in your APIs",
+  "main": "index.js",
+  "repository": {
+    "url": "http://github.com/kamranahmedse/express-api-problem",
+    "type": "git"
+  },
+  "keywords": [
+    "exceptions",
+    "exception",
+    "errors",
+    "error",
+    "whoops",
+    "laravel faulty",
+    "api problem",
+    "exception handler"
+  ],
+  "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-status-codes": "^1.0.6"
+  }
+}
